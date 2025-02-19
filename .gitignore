@@ -1,4 +1,32 @@
 mi_primer_proyecto/Lib
 mi_primer_proyecto/Scripts
 mi_primer_proyecto/share
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar entornos virtuales
+venv/
+.env/
+*.venv
+
+# Ignorar capturas de pantalla generadas
+chatbot_orson_judio/captures/
+
+# Ignorar archivos de logs y caché
+logs/
+*.log
+
+# Archivos específicos de VSCode
+.vscode/
+.settings/
+
+# Dependencias instaladas
+chatbot_orson_judio/requirements.txt
 
