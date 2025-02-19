@@ -17,7 +17,7 @@ venv/
 *.venv
 
 # Ignorar capturas de pantalla generadas
-chatbot_orson_judio/captures/
+chatbot_orson_judio/src/captures
 
 # Ignorar archivos de logs y caché
 logs/
