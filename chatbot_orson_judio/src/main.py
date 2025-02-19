@@ -4,6 +4,7 @@ import os
 import numpy as np
 from processing.detect_changes import detect_change, get_latest_images
 
+
 selection = None
 
 
